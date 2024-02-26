@@ -8,8 +8,8 @@ title = 'My New Hugo Site'
   
 [Params]
 
-MainAboutTitle = 'for me here '
-AboutTitle = 'testType is here '
+MainAboutTitle = 'الرسالة : '
+AboutTitle = 'رسالة الرابطة تتمثل في تعزيز الترابط والتعاون المجتمعي، وتعزيز الوعي والتنمية الشاملة لأفراد المجتمع. نسعى إلى بناء جيل واعٍ ومسؤول يسهم في تحقيق التنمية المستدامة والازدهار الاجتماعي. '
 
 MainAboutMission = 'alhady '
 AboutMission = 'testType is here '
