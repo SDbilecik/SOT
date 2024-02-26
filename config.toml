@@ -1,0 +1,24 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+
+[blackfriday]
+  unsafe = true
+
+  
+[Params]
+
+MainAboutTitle = 'for me here '
+AboutTitle = 'testType is here '
+
+MainAboutMission = 'alhady '
+AboutMission = 'testType is here '
+
+MainAboutOffers = 'testType is here '
+AboutOffers = 'testType is here '
+
+MainAboutTeam = 'test type  '
+AboutTeam = 'testType is here '
+
+MainAboutVison = 'testType is here '
+AboutVison = 'testType is here '

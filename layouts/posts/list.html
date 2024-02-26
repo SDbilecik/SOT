@@ -1,0 +1,24 @@
+{{ define "main"}}
+
+
+
+      <div class="blog_con">
+      
+    {{ range .Pages }}
+
+        <div class="cont" dir="rtl" >
+    
+            <img class="blog_img" src="{{ .Params.img }}" alt="{{ .Title }}">
+            <div class="blog_text">
+                <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+                <p class="blog_para"> {{ .Params.short }} </p>
+            </div>
+        </div>
+        
+    {{ end }}
+       
+    </div>
+
+
+    {{ .Content }}
+{{ end }}

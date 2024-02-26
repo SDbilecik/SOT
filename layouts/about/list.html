@@ -1,0 +1,30 @@
+
+{{ define "main" }}
+    <div class="about_con">
+        <h1>{{ .Site.Params.MainAboutTitle }}</h1>
+
+        <p>{{ .Site.Params.AboutTitle }}</p>
+
+        <h1>{{ .Site.Params.MainAboutMission }}</h1>
+
+        <p>{{ .Site.Params.AboutMission }}</p>
+ 
+        <h1>{{ .Site.Params.MainAboutOffers }}</h1>
+
+        <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+
+        <h1>{{ .Site.Params.MainAboutTeam }}</h1>
+
+        <p>{{ .Site.Params.AboutTeam }}</p>
+
+        <h1>{{ .Site.Params.MainAboutVison }}</h1>
+        <p> {{ .Site.Params.AboutVison }} </p>
+
+
+    </div>
+    {{ .Content}}
+{{ end }}

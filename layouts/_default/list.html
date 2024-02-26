@@ -1,0 +1,18 @@
+
+{{ define "main" }}
+
+<div class="mainCon">
+    <div class="mainImg">
+        <img src="/img/sotMain.jpg" alt="imge">
+    </div>
+    <div class="mainText">
+        <h1> here is some title </h1>
+        <p> {{ .Site.Params.cafe }} </p>
+       
+    </div>
+
+    {{ .Content}}
+</div>
+
+    
+{{ end }}

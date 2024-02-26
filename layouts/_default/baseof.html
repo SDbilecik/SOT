@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {{ partial "meta.html"}}
+    {{ partial "cssFiles.html"}}
+    
+</head>
+<body>
+
+    {{ partial "nav.html" }}
+
+    {{ block "main" . }}
+    {{ end }}
+    
+
+    {{ partial "footer.html" }}
+
+    {{ partial "jsFile.html"}}
+
+</body>
+</html>

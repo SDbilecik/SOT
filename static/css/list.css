@@ -1,0 +1,24 @@
+.mainCon{
+    margin: auto;
+    width: 90%;
+    display: block;
+    align-items: center;
+    margin-top: 30px;
+
+}
+.mainImg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    max-width: 100%; /* Ensure the image doesn't exceed its container */
+    height: auto; /* Maintain aspect ratio */
+}
+
+@media screen and (min-width: 768px) {
+    .mainCon {
+        width: 73%; /* Stack items vertically on small screens */
+    }
+}

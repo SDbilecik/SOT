@@ -1,0 +1,16 @@
+{{ define "main"}}
+  
+
+
+
+    <div dir="rtl">
+        <h1 class="cont-title" >{{ .Title }}</h1>
+
+        {{ partial "swiper.html" . }}
+        <div class="cont-style">
+             {{ .Content }}           
+        </div>
+
+    </div>
+
+{{ end }}
