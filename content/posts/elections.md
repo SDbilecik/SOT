@@ -1,13 +1,12 @@
 ---
 title: "الأنتخابات"
-short: here is some random text come from the about of the blogs and Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores 
+short: رحب المكتب التنفيذي السابقفي اجتماع الجمعية العمومية للسنة الأولى في دورتها التي امتدت لسنة وتتقدمت بتقريرها عن أهم الأعمال والأنشطة خلال هذه الفترة ....
 img: "/img/elec2.jpg"
 images :
 - "/img/elec1.jpg"
 - "/img/elec2.jpg"
 - "/img/elect3.jpg"
 ---
-
 
 ## بسم الله الرحمن الرحيم
 

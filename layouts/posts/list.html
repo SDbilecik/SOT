@@ -2,15 +2,16 @@
 
 
 
-      <div class="blog_con">
+    <div class="blog_con">
       
     {{ range .Pages }}
 
         <div class="cont" dir="rtl" >
     
-            <img class="blog_img" src="{{ .Params.img }}" alt="{{ .Title }}">
+            <a href="{{ .Permalink }}"><img class="blog_img" src="{{ .Params.img }}" alt="{{ .Title }}"></a>
             <div class="blog_text">
-                <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+                <h1 class="cont-link" style="margin-bottom: 0; margin-top: 10px;"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+                <hr>
                 <p class="blog_para"> {{ .Params.short }} </p>
             </div>
         </div>

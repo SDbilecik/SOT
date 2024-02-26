@@ -3,19 +3,18 @@
     margin: 0 auto;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
-    margin-top: 20px;
+    margin-top: 30px;
    
 }
 
 .cont {
-    background-color: silver;
+    margin: 0 auto;
     border: 1px solid #e5e5e5;
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .1);
     width: 20%; 
     margin-bottom: 20px;
     padding: 10px;
-    background-color: #f2f2f2;
+    background-color: white;
     border-radius: 5px;
 }
 
@@ -37,7 +36,7 @@
 }
 
 /* Media query for screens smaller than 768px */
-@media (max-width: 767px) {
+@media (max-width: 867px) {
     .blog_con {
         width: 80%;
  
