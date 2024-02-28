@@ -1,0 +1,57 @@
+
+.container{
+    display: block;
+    padding: 5px 0;
+    background-color: #DEC3BE;;
+    border-top: 1px solid #e9ecef;
+    margin-top: 10px;
+    height: auto;
+    
+}
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.fa {
+    padding: 15px;
+    width: 15px;
+    height: 15px;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+  }
+
+
+  .fa:hover {
+    opacity: 0.7;
+  }
+
+  .fa-telegram {
+    background:  #2AABEE ;
+    color: white;
+  }
+  
+  .fa-youtube {
+    background:  	#FF0000;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #C13584;
+    color: white;
+  }
+  
+
+  .fa-github {
+    background:  #000000;
+    color: white;
+  }
