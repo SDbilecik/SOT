@@ -1,16 +1,19 @@
 <div class="swiper">
   
   <!-- Additional required wrapper -->
-  <div class="swiper-wrapper">
-    <!-- Slides -->
-    {{ range .Params.images }}
-      <div class="swiper-slide" data-swiper-autoplay="1500">
-        <img src="{{ . }}" alt="">
-      </div>
+  <div class="swiper-container">
+    <div class="swiper-wrapper">
+      <!-- Slides -->
+      {{ range .Params.images }}
+        <div class="swiper-slide" >
+          <img src="{{ . }}" alt="">
+        </div>
 
-    {{ end }}
+      {{ end }}
 
-    ...
+
+    </div>
+ 
   </div>
 
 
