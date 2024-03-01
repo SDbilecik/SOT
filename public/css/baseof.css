@@ -1,0 +1,44 @@
+:root{
+    --main-color: #cddff4 ;
+    --side-color:  #9197AE;
+    --hover-main: #93032E;
+    --nav-color: white;
+
+    
+}
+
+body{
+    background-color: var(--main-color);
+
+
+}
+
+nav{
+    background-color: var(--side-color); ;
+
+}
+.navbar-b{
+
+    color : var(--nav-color);
+}
+.navbar-b:hover{
+    color: var(--hover-main);
+}
+
+.container{
+    background-color: var(--side-color);
+}
+
+.cont-title{
+    width: 80%;
+    text-align: right;
+}
+.cont-style{
+    width: 80%;
+    align-items: center;
+
+}
+
+
+
+  
