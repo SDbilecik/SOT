@@ -16,4 +16,4 @@ By navigating through these pages, users can easily access the desired informati
 For more details, please refer to the website's documentation or contact the website administrators. [sotbilecik.org].
 """
 
-you can fork and write your artical :)
+you can fork and write your artical :
