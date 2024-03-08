@@ -17,3 +17,6 @@ For more details, please refer to the website's documentation or contact the web
 """
 
 you can fork and write your artical :
+
+
+## كيف تضيف المقال بتاعك ::
