@@ -13,3 +13,11 @@ By navigating through these pages, users can easily access the desired informati
 
 For more details, please refer to the website's documentation or contact the website administrators. [sotbilecik.org].
 """
+
+
+أشرح كيف اضافه مقال 
+
+
+مكان الصور والملف وكيف تظيف الصور مع المقال
+
+the way that i will exaplain how to write the artical and add the image it will so easy and simple to understant for the new people to undersnat : ))
