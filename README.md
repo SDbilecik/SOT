@@ -17,3 +17,5 @@ For more details, please refer to the website's documentation or contact the web
 """
 
 
+## كيف تضيف مقاله 
+كل المقالات بتظهر في قسم النشاطات 
