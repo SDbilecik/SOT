@@ -17,7 +17,7 @@ This website is a platform that contains four main pages: main, about, associati
 
 By navigating through these pages, users can easily access the desired information and engage with the website's content.
 
-For more details, please refer to the website's documentation or contact the website administrators. [sotbilecik.org].
+For more details, please refer to the website's documentation or contact the website administrators. [sotbilecik.org]. for conturbute fork this repo
 """
 
 
