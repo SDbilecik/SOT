@@ -2,8 +2,6 @@ visit the site :)
 
 www.sotbilecik.org
 
-
-
 """
 This website is a platform that contains four main pages: main, about, association, and activity.
 
